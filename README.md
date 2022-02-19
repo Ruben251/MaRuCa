@@ -1,2 +1,2 @@
-# MaRuCa_
+# MaRuCa
 Enjoyable Workplace 
